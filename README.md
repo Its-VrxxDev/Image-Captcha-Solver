@@ -17,3 +17,6 @@ print(image.extract())
 image_b64 = OCRSolver(image_base64="iVBORw0KGgoAAAANSUhEUgAAAKAAAAAyCAIAAABUA0cyAAAFi0lEQVR4Xu2YUZLiMAxEue7...")
 print(image_b64.extract())
 ```
+
+![Captcha Image](captcha.png)
+![Terminal Log](Screenshot_2024-12-13-14-44-39-07.jpg)
