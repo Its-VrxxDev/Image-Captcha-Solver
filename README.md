@@ -1,3 +1,10 @@
+## Requirements
+```bash
+pip install requests
+```
+
+
+## Example Code
 ```py
 from ocr_solver import OCRSolver
 
